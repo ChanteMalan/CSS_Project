@@ -1,0 +1,116 @@
+/*External style sheeting for body,navbar,sidebar and footer*/
+
+
+/*styling for navbar, ul,li and a*/
+
+#head{
+  background-color: #0052cc;
+  width: 1000px;
+  height: 198px;
+}
+
+#ad{
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.search{
+  float: right;
+
+}
+/*div styling ends*/
+
+#space{
+  height: 20px;
+}
+
+#dot ul{
+  list-style-type: none;
+}
+
+#dot li{
+  display: inline-block;
+  float: right;
+  margin-left: 50px;
+}
+
+
+
+nav {
+  margin: 10px;
+  padding: 10px;
+
+}
+
+
+nav ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: darkblue;
+}
+
+nav li {
+  display: inline-block;
+  color: white;
+  padding: 10px;
+  border-right: 1px solid grey;
+
+
+}
+
+nav li a{
+  text-decoration: none;
+  color: white;
+  margin: 73.23px;
+  width: 100%;
+
+
+}
+
+nav li a:hover{
+  text-decoration: underline;
+}
+
+/*styling for navbar ends,*/
+
+
+
+/*styling for footer to black,*/
+
+
+footer {
+  clear:both;
+  background-color: black;
+  width: 1000px;
+  height: 185px;
+  margin:;
+
+}
+
+footer a{
+  text-decoration: none;
+  color: white;
+
+}
+
+footer a:hover{
+  text-decoration: underline;
+
+}
+
+/*styling for footer*/
+
+
+
+
+
+/*styling for sidebar ,oving it to the left,*/
+
+aside{
+  float: right;
+  width: 30%
+}
+
+aside ul {
+  list-style-type: none;
+}
